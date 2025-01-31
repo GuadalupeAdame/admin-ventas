@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../base-juego-adivinanza-js-master"
+		},
+		{
+			"path": "../base-calculadora-curso-js-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "base-practica-javascript1-master"
+	}
+}
